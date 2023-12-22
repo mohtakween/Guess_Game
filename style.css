@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+#guessInput {
+  width: 50px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#feedbackText {
+  font-weight: bold;
+  color: #666;
+}
+
+#remainingAttempts {
+  font-size: 0.8em;
+  margin-top: 10px;
+}
